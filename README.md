@@ -15,7 +15,7 @@ This is a Currency Converter web application built using HTML, CSS, and JavaScri
 - Exchange Rate API
 
 ## 🌐 Live Demo
-(Coming Soon)
+https://engineer-ayesha.github.io/Currency-Converter/
 
 ## 👩‍💻 Author
 Engineer Ayesha Khalid
